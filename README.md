@@ -7,3 +7,6 @@ Go to chrome://flags and search 'Transition'
 Enable both options
 Relaunch chrome
 Enjoy smooth page to page transitions
+  
+QUICK BUG FIX: 
+OPEN USING VS CODE FOR THE WEBSITE TO WORK PROPERLY!!!!!
